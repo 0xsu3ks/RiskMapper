@@ -1,0 +1,23 @@
+# OpenAI API client for interacting with ChatGPT
+openai==0.27.10
+
+# Data manipulation and Excel file handling
+pandas==2.1.1
+openpyxl==3.1.2
+
+# Plotting and data visualization
+matplotlib==3.8.0
+seaborn==0.12.2
+plotly==5.17.0
+
+# PDF generation
+fpdf2==2.5.7
+
+# HTTP requests for downloading PDF files
+requests==2.31.0
+
+# Argument parsing and configuration handling
+configparser==6.0.0
+
+# Miscellaneous utilities
+argparse
